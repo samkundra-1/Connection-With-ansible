@@ -1,5 +1,10 @@
 Commands for setups
 create 2 instance first for master and other for Node 
-master ---
+master --- ansible 
+now install ansible and
+cd /etc/ansible 
+ls
+there are 3 files there 
+ansible_cfg  host  and one more there
         
       
